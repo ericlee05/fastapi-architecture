@@ -1,0 +1,10 @@
+fastapi~=0.100.1
+uvicorn~=0.23.2
+pydantic~=1.10.12
+pythondi
+beanie~=1.20.0
+motor~=3.2.0
+
+pytest
+pytest-asyncio
+mongomock-motor
